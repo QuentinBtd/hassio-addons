@@ -1,7 +1,7 @@
 ---
 channel: stable
 addons:
-  adguard:
+  victoria-metrics:
     repository: QuentinBtd/hassio-addon-victoria-metrics
     target: victoria-metrics
-    image: ghcr.io/QuentinBtd/hassio-addon-victoria-metrics/{arch}
+    # image: ghcr.io/QuentinBtd/hassio-addon-victoria-metrics/{arch}
