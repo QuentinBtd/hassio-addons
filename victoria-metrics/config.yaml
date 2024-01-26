@@ -1,6 +1,6 @@
 ---
 name: Victoria Metrics
-version: dev
+version: main
 slug: victoria-metrics
 description: Time Series Database for long term storage as replacement for VictoriaMetrics and InfluxDB
 url: https://github.com/QuentinBtd/hassio-addon-victoria-metrics
